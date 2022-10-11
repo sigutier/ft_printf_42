@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sigutier/ft_printf_42?style=plastic">
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sigutier/ft_printf_42?style=plastic">
 </p>
 
