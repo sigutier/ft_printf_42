@@ -1,5 +1,3 @@
-# ft_printf_42
-
 <h1 align="center">
 	✏️ ft_printf
 </h1>
