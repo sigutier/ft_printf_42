@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/ft_printf?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sigutier/ft_printf_42?style=plastic">
 </p>
 
 <h3 align="center">
